@@ -2,5 +2,4 @@
 layout: default
 ---
 
-{% include 01-name.md %}
-
+# Amarilla juan carlos <h2>
